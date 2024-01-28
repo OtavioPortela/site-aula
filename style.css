@@ -1,0 +1,51 @@
+main {
+
+    display: flex;
+    justify-content: center;
+    height: 40vw;
+    align-items: center;
+    
+}
+
+main>div{
+    margin: 10vw;
+}
+.conteudo {
+;
+}
+.apresentar {
+    padding-bottom: 4vh;
+    font-size: 4vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nome {
+    text-align: center;
+    padding-bottom: 4vh;
+    font-size: 9vh;
+    
+}
+
+.sobre {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.habilidades {
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+}
+
+.habilidades > img{
+    padding: 2vh;
+}
+
+.habilidades > img:hover{
+    height: 60px;
+    width: 60px;
+}
+
+
+.foto {
+    border-radius: 50%;
+}
